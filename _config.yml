@@ -1,0 +1,28 @@
+name: Draft71
+favicon: null
+layout_spectrum: 0.2069053342565894
+typography_spectrum: 0.44864867627620697
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.01657997164875269
+  lightness: 0.899368867976591
+  saturation: 0.6147464194800705
+  rhythmicContrast: 0.11949463584460318
+purpose: []
